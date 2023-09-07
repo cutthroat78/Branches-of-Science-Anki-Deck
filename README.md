@@ -1,6 +1,6 @@
 # Branches of Science Anki Deck
 
-An anki deck of the all branches of science listed on Wikipedia
+An anki deck of all the branches of science listed on Wikipedia
 
 [Download](https://github.com/cutthroat78/Branches-of-Science-Anki-Deck/releases/latest/download/Branches-of-Science.apkg)
 
